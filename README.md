@@ -13,7 +13,9 @@
 <a href="https://www.notion.so/Gonzalo-Maga-a-Segovia-2c5b3837b05d80b89339cbc245b7c17f?source=copy_link">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
+<a href="https://x.com/GonzaloMag98988">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 
 
