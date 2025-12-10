@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="URL_DE_TU_BANNER" alt="Banner" />
+</p>
+
+<a href="www.linkedin.com/in/gonzalo-magaña-segovia-software">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
 <!--
 **GonzaloTT/GonzaloTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
