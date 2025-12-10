@@ -4,6 +4,7 @@
   <img src="URL_DE_TU_BANNER" alt="Banner" />
 </p>
 
+<div align="center">
 <a href="www.linkedin.com/in/gonzalo-magaña-segovia-software">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -22,7 +23,7 @@
 <a href="https://wa.link/xbw9se">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
+</div>
 
 
 <!--
