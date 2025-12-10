@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there, Im Gonzalo👋
+Hi there, I'm Gonzalo👋
 </h1>
 <hr style="border: 1px solid #444; margin: 20px 0;">
 <div align="center">
