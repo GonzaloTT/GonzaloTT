@@ -1,9 +1,13 @@
-## Hi there 👋
-
+<div align="center">
+## Hi there, Im Gonzalo👋
+</div>
+---
+<div align="center">
 <p align="center">
   <img src="URL_DE_TU_BANNER" alt="Banner" />
 </p>
-
+</div>
+---
 <div align="center">
 <a href="www.linkedin.com/in/gonzalo-magaña-segovia-software">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,9 +28,10 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </div>
-
+---
+<div align="center">
 ### About Me
-
+</div>
 I'm Gonzalo Magaña Segovia, a full stack web developer in training who enjoys building clean and functional solutions. I work with JavaScript, React, Node.js, HTML, CSS (BEM), APIs, responsive design, and Git.
 
 I study Embedded Systems and Software Engineering at Universidad Mondragón and develop projects through the TripleTen bootcamp, focusing on reusable components, state management, and modern web practices.
@@ -34,9 +39,10 @@ I study Embedded Systems and Software Engineering at Universidad Mondragón and 
 As an IT intern at King Global Cargo (KGC), I strengthened my problem-solving and technical skills in real-world environments.
 
 I'm looking to grow as a Full Stack Junior / Frontend Junior / Web Developer and contribute to teams that value learning and continuous improvement.
-
+---
+<div align="center">
 ### Tech Stack
- 
+</div>
   <div align="center" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center;"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js"/> 
@@ -50,21 +56,22 @@ I'm looking to grow as a Full Stack Junior / Frontend Junior / Web Developer and
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VSCode"/> 
   </div>
-
+---
+<div align="center">
 ### GitHub Analytics
-
+</div>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GonzaloTT&theme=gotham" alt="Profile Details" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GonzaloTT&theme=gotham" alt="Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GonzaloTT&theme=gotham" alt="Top Languages" />
 </div>
-
+---
+<div align="center">
 ### Featured Projects
-
+</div>
 <a href="https://github.com/GonzaloTT/web_project_around">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GonzaloTT&repo=web_project_around&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/GonzaloTT/web_project_homeland">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GonzaloTT&repo=web_project_homeland&theme=tokyonight" />
 </a>
