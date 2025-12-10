@@ -10,6 +10,10 @@
 <a href="mailto:gonzalo.magana.1808@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https:[//TU-PORTFOLIO.com/](https://www.notion.so/Gonzalo-Maga-a-Segovia-2c5b3837b05d80b89339cbc245b7c17f?source=copy_link)">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 
 
 
