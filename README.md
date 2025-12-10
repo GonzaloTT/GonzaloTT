@@ -51,6 +51,15 @@ I'm looking to grow as a Full Stack Junior / Frontend Junior / Web Developer and
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VSCode"/> 
   </div>
 
+### GitHub Analytics
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GonzaloTT&theme=gotham" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GonzaloTT&theme=gotham" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GonzaloTT&theme=gotham" alt="Top Languages" />
+</div>
+
+
 
 <!--
 **GonzaloTT/GonzaloTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
