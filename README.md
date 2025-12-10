@@ -1,13 +1,13 @@
 <div align="center">
 ## Hi there, Im Gonzalo👋
 </div>
----
+<hr style="border: 1px solid #444; margin: 20px 0;">
 <div align="center">
 <p align="center">
   <img src="URL_DE_TU_BANNER" alt="Banner" />
 </p>
 </div>
----
+<hr style="border: 1px solid #444; margin: 20px 0;">
 <div align="center">
 <a href="www.linkedin.com/in/gonzalo-magaña-segovia-software">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </div>
----
+<hr style="border: 1px solid #444; margin: 20px 0;">
 <div align="center">
 ### About Me
 </div>
@@ -39,7 +39,7 @@ I study Embedded Systems and Software Engineering at Universidad Mondragón and 
 As an IT intern at King Global Cargo (KGC), I strengthened my problem-solving and technical skills in real-world environments.
 
 I'm looking to grow as a Full Stack Junior / Frontend Junior / Web Developer and contribute to teams that value learning and continuous improvement.
----
+<hr style="border: 1px solid #444; margin: 20px 0;">
 <div align="center">
 ### Tech Stack
 </div>
@@ -56,7 +56,7 @@ I'm looking to grow as a Full Stack Junior / Frontend Junior / Web Developer and
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VSCode"/> 
   </div>
----
+<hr style="border: 1px solid #444; margin: 20px 0;">
 <div align="center">
 ### GitHub Analytics
 </div>
@@ -65,7 +65,7 @@ I'm looking to grow as a Full Stack Junior / Frontend Junior / Web Developer and
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GonzaloTT&theme=gotham" alt="Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GonzaloTT&theme=gotham" alt="Top Languages" />
 </div>
----
+<hr style="border: 1px solid #444; margin: 20px 0;">
 <div align="center">
 ### Featured Projects
 </div>
