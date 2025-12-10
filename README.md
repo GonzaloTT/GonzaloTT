@@ -19,7 +19,9 @@
 <a href="https://www.instagram.com/gonzalo_tt_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
+<a href="https://wa.link/xbw9se">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 
 
