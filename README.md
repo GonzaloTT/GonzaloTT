@@ -25,6 +25,15 @@
 </a>
 </div>
 
+### About Me
+
+I'm Gonzalo Magaña Segovia, a full stack web developer in training who enjoys building clean and functional solutions. I work with JavaScript, React, Node.js, HTML, CSS (BEM), APIs, responsive design, and Git.
+
+I study Embedded Systems and Software Engineering at Universidad Mondragón and develop projects through the TripleTen bootcamp, focusing on reusable components, state management, and modern web practices.
+
+As an IT intern at King Global Cargo (KGC), I strengthened my problem-solving and technical skills in real-world environments.
+
+I'm looking to grow as a Full Stack Junior / Frontend Junior / Web Developer and contribute to teams that value learning and continuous improvement.
 
 <!--
 **GonzaloTT/GonzaloTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
