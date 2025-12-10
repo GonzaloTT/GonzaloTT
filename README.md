@@ -4,7 +4,7 @@ Hi there, Im Gonzalo👋
 <hr style="border: 1px solid #444; margin: 20px 0;">
 <div align="center">
 <p align="center">
-  <img src="URL_DE_TU_BANNER" alt="Banner" />
+  <img src="./ogramac(1).png" alt="Banner" width="100%" />
 </p>
 </div>
 <hr style="border: 1px solid #444; margin: 20px 0;">
