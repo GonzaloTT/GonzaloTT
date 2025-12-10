@@ -1,6 +1,6 @@
-<div align="center">
-## Hi there, Im Gonzalo👋
-</div>
+<h1 align="center">
+Hi there, Im Gonzalo👋
+</h1>
 <hr style="border: 1px solid #444; margin: 20px 0;">
 <div align="center">
 <p align="center">
@@ -29,9 +29,9 @@
 </a>
 </div>
 <hr style="border: 1px solid #444; margin: 20px 0;">
-<div align="center">
-### About Me
-</div>
+<h2 align="center">
+About Me
+</h2>
 I'm Gonzalo Magaña Segovia, a full stack web developer in training who enjoys building clean and functional solutions. I work with JavaScript, React, Node.js, HTML, CSS (BEM), APIs, responsive design, and Git.
 
 I study Embedded Systems and Software Engineering at Universidad Mondragón and develop projects through the TripleTen bootcamp, focusing on reusable components, state management, and modern web practices.
@@ -40,9 +40,9 @@ As an IT intern at King Global Cargo (KGC), I strengthened my problem-solving an
 
 I'm looking to grow as a Full Stack Junior / Frontend Junior / Web Developer and contribute to teams that value learning and continuous improvement.
 <hr style="border: 1px solid #444; margin: 20px 0;">
-<div align="center">
-### Tech Stack
-</div>
+<h2 align="center">
+Tech Stack
+</h2>
   <div align="center" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center;"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js"/> 
@@ -57,18 +57,18 @@ I'm looking to grow as a Full Stack Junior / Frontend Junior / Web Developer and
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VSCode"/> 
   </div>
 <hr style="border: 1px solid #444; margin: 20px 0;">
-<div align="center">
-### GitHub Analytics
-</div>
+<h2 align="center">
+GitHub Analytics
+</h2>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GonzaloTT&theme=gotham" alt="Profile Details" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GonzaloTT&theme=gotham" alt="Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GonzaloTT&theme=gotham" alt="Top Languages" />
 </div>
 <hr style="border: 1px solid #444; margin: 20px 0;">
-<div align="center">
-### Featured Projects
-</div>
+<h2 align="center">
+Featured Projects
+</h2>
 <a href="https://github.com/GonzaloTT/web_project_around">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GonzaloTT&repo=web_project_around&theme=tokyonight" />
 </a>
