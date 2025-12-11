@@ -73,5 +73,5 @@ Featured Projects
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=GonzaloTT&repo=web_project_around&theme=tokyonight" />
 </a>
 <a href="https://github.com/GonzaloTT/web_project_homeland">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=GonzaloTT&repo=web_project_around&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=GonzaloTT&repo=web_project_homeland&theme=tokyonight" />
 </a>
