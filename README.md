@@ -174,8 +174,7 @@ I'm currently expanding into mobile development through **Kotlin and Android Stu
   />
 </p>
 
-**Core:** Git · GitHub · GitLab · Linux · Cloudflare · Serverless Deployments  
-**Familiar with:** Docker · CI/CD · Nginx · PM2
+**Core:** Git · GitHub · GitLab · Linux · Cloudflare 
 
 ### Product and UX/UI Design
 
