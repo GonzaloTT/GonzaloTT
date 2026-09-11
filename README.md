@@ -40,7 +40,7 @@ I have delivered internal tools used by real employees and developed web product
 
 I completed professional bootcamps in **Full Stack Web Development** and **UX/UI Design** at TripleTen.
 
-I'm currently expanding into mobile development through **Kotlin and Android Studio**, while learning **Flutter and Dart**. I'm particularly interested in mobile product engineering, fitness technology, and AI-assisted digital experiences.
+I'm currently expanding into mobile development through **Kotlin and Android Studio**. I'm particularly interested in mobile product engineering, fitness technology, and AI-assisted digital experiences.
 
 ### Main Interests
 
