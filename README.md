@@ -143,7 +143,6 @@ I'm currently expanding into mobile development through **Kotlin and Android Stu
 </p>
 
 **Current:** Kotlin · Android Studio  
-**Currently learning:** Flutter · Dart
 
 ### Cloud, DevOps and Tools
 
