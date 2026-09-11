@@ -140,16 +140,6 @@ I'm currently expanding into mobile development through **Kotlin and Android Stu
     height="42"
     alt="Android Studio"
   />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-    height="42"
-    alt="Flutter"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
-    height="42"
-    alt="Dart"
-  />
 </p>
 
 **Current:** Kotlin · Android Studio  
@@ -162,11 +152,6 @@ I'm currently expanding into mobile development through **Kotlin and Android Stu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
     height="42"
     alt="Linux"
-  />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-    height="42"
-    alt="Docker"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
