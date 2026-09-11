@@ -8,7 +8,7 @@
 
 <p align="center">
   Building user-centered web and mobile product experiences with React, JavaScript,
-  Node.js, UX/UI design and a growing focus on Android and Flutter development.
+  Node.js, UX/UI design and a growing focus on Android development.
 </p>
 
 ---
